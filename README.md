@@ -1,5 +1,5 @@
 # LI323-Bayes
-
+UPMC - L3 - 2014-2015
 L’objectif de ce projet est de construire une fonction permettante de
 determiner automatiquement à quelle langue appartient un mot, comme
 dans les deux examples suivants :
